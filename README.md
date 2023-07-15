@@ -1,6 +1,6 @@
 # ClientServer
 
-## Chat between client and sercer using socket and threads
+## Chat between client and sercer using Socket , Threadsand Java UI(GUI)
 
 #### Client Chat Screen
 
