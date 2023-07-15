@@ -10,7 +10,7 @@
 
 ![image](https://github.com/ZeinabAbdien00/Client-Server/assets/105871085/7b5ec954-d256-48df-81ad-d0d206e48d7e)
 
-#### Chat Svreens
+#### Chat Screens
 
 ![image](https://github.com/ZeinabAbdien00/Client-Server/assets/105871085/b2c2abcb-23fb-4fde-8d3a-bc8b6eb7983d)
 
